@@ -8,6 +8,19 @@ A mobile-first offline habit and life tracking PWA built with Vue, TailwindCSS, 
 
 The project is built as an offline-first Progressive Web App, with local data storage and backup/import functionality planned or partially implemented.
 
+## Screenshots
+
+<p align="center">
+  <img src="./screenshots/finance-page.jpg" width="220" alt="Finance page screen" />
+  <img src="./screenshots/finance-page-stats.jpg" width="220" alt="Finance stats screen" />
+  <img src="./screenshots/settings-page.jpg" width="220" alt="Settings page screen" />
+</p>
+
+<p align="center">
+  <img src="./screenshots/entry-page.jpg" width="220" alt="Entry page screen" />
+  <img src="./screenshots/finance-insights.jpg" width="220" alt="Finance insights screen" />
+</p>
+
 ## Status
 
 Work in progress.
